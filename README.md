@@ -9,5 +9,6 @@
     └── config
         └── compass.rb
 ## How to use
-    cd $PROJECT_DIR
-    compass create -c config/compass.rb
+    $ git clone https://taiju@github.com/taiju/static_web_startkit.git $PFOJECT_DIR
+    $ cd $PROJECT_DIR
+    $ compass create -c config/compass.rb
